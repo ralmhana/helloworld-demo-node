@@ -13,7 +13,7 @@ const server = http.createServer((req, res) => {
   \\____\\_______/
 
 
-Hello from DevOps class 2025!
+Hello from DevOps class!
 `);
   res.end();
 });
