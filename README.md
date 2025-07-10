@@ -61,7 +61,7 @@ This utility will walk you through creating the following files with sensible de
   docker compose up -d --build
  ```
  
- ## Accessing the Node app
+ ## Accessing the Node app 2025
  
  ```
  curl localhost:8080
