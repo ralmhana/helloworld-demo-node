@@ -4,7 +4,7 @@
   "description": "Hello World for Docker Init",
   "main": "app.js",
   "scripts": {
-    "test": "node test.js"
+    "test": "k6 run test.js"
   },
   "author": "",
   "license": "ISC"
