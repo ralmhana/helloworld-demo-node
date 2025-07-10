@@ -76,6 +76,6 @@ This utility will walk you through creating the following files with sensible de
   \____\_______/
 
 
-Hello from Docker from DevOps 2025!
+Hello from Docker from DevOps!
 ```
 
